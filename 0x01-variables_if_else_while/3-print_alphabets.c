@@ -1,4 +1,4 @@
-#include <stid.h>
+#include <stido.h>
 
 /**
  * main - prints alpha in lower and upper case
